@@ -2,8 +2,6 @@
 
 A PowerShell module to start a web server to host a local web site.
 
-Using PowerShell Core 7.0
-
 ## Module name
 
 WebHost
@@ -18,3 +16,6 @@ Defaults to localhost (127.0.0.1), port 2194
 
 Run and host on (127.0.0.1), port 4848
 
+## Reference
+
+https://docs.microsoft.com/en-us/powershell/scripting/developer/module/how-to-write-a-powershell-script-module?view=powershell-7
