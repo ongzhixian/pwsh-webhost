@@ -40,7 +40,7 @@ Function Start-WebHost {
         # [string[]] $highlightDate = [DateTime]::Today.ToString()
     )
     
-    Write-Host "Place holder for function"
+    Write-Host "Working 789"
 }
 
 # Module member export definitions
