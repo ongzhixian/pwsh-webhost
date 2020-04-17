@@ -2,6 +2,12 @@
 
 A PowerShell module to start a web server to host a local web site.
 
+## Latest version
+
+Version 0.0.3
+
+Fix bug where server crashed when serving empty file.
+
 ## Module name
 
 WebHost
